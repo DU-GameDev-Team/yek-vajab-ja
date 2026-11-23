@@ -2,6 +2,10 @@
 
 A Persian casual parking game built with Unity WebGL. Players make three parking attempts, earn a score, and can challenge friends with a shareable result.
 
+## Play the game
+
+[Play یه‌وجب جا](https://yek-vajab-ja.mhmirmajidi8495-p4578.arvanedge.ir/)
+
 ## Repository layout
 
 - `ye-vajab-ja/` — Unity project source, assets, packages, and project settings.
