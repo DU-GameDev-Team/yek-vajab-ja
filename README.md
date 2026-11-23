@@ -4,7 +4,7 @@ A Persian casual parking game built with Unity WebGL. Players make three parking
 
 ## Play the game
 
-[Play یه‌وجب جا](https://yek-vajab-ja.mhmirmajidi8495-p4578.arvanedge.ir/)
+[Play yek-vajab-ja](https://yek-vajab-ja.mhmirmajidi8495-p4578.arvanedge.ir/)
 
 ## Repository layout
 
