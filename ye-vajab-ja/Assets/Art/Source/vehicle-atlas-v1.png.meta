@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 6db7d77ebbf6b284bb41c10b136fc5fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3850735861333698143
+    second: vehicle-atlas-v1_0
+  - first:
+      213: -466948680337497048
+    second: vehicle-atlas-v1_1
+  - first:
+      213: 81457234367267636
+    second: vehicle-atlas-v1_2
+  - first:
+      213: 9185942760256812853
+    second: vehicle-atlas-v1_3
+  - first:
+      213: 518144148642461968
+    second: vehicle-atlas-v1_4
+  - first:
+      213: 2839181281153463130
+    second: vehicle-atlas-v1_5
+  - first:
+      213: 4596547958791230818
+    second: vehicle-atlas-v1_6
+  - first:
+      213: -4129170160726257528
+    second: vehicle-atlas-v1_7
+  - first:
+      213: 182450212149701974
+    second: vehicle-atlas-v1_8
+  - first:
+      213: -2152038570026344093
+    second: vehicle-atlas-v1_9
+  - first:
+      213: 6196165753966390252
+    second: vehicle-atlas-v1_10
+  - first:
+      213: 1046980406884591182
+    second: vehicle-atlas-v1_11
+  - first:
+      213: -6048071106367600027
+    second: vehicle-atlas-v1_12
+  - first:
+      213: 7974128115163256359
+    second: vehicle-atlas-v1_13
+  - first:
+      213: 6869695691381936138
+    second: vehicle-atlas-v1_14
+  - first:
+      213: -7494457361560829686
+    second: vehicle-atlas-v1_15
+  - first:
+      213: -1702149940626979332
+    second: vehicle-atlas-v1_16
+  - first:
+      213: -5847975768203550888
+    second: vehicle-atlas-v1_17
+  - first:
+      213: -8933654285839418287
+    second: vehicle-atlas-v1_18
+  - first:
+      213: -4021579723324556935
+    second: vehicle-atlas-v1_19
+  - first:
+      213: 4001056781394742210
+    second: vehicle-atlas-v1_20
+  - first:
+      213: 4009348303454649393
+    second: vehicle-atlas-v1_21
+  - first:
+      213: -417246616326980419
+    second: vehicle-atlas-v1_22
+  - first:
+      213: 4882949011462590759
+    second: vehicle-atlas-v1_23
+  - first:
+      213: -4098723623142129884
+    second: vehicle-atlas-v1_24
+  - first:
+      213: 6214502190543942793
+    second: vehicle-atlas-v1_25
+  - first:
+      213: -1777546023177987470
+    second: vehicle-atlas-v1_26
+  - first:
+      213: 6176550752677742797
+    second: vehicle-atlas-v1_27
+  - first:
+      213: -4983118456796781644
+    second: vehicle-atlas-v1_28
+  - first:
+      213: -4019180566551048136
+    second: vehicle-atlas-v1_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 121
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5627a22ddf807530800000000000000
+      internalID: 3850735861333698143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 29
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824652436a01589f0800000000000000
+      internalID: -466948680337497048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 6
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433c8de4ce4612100800000000000000
+      internalID: 81457234367267636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537bd2075460b7f70800000000000000
+      internalID: 9185942760256812853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_4
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 831
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019f742ab51d03700800000000000000
+      internalID: 518144148642461968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 767
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533714255cc66720800000000000000
+      internalID: 2839181281153463130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 844
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2655cc4d3083acf30800000000000000
+      internalID: 4596547958791230818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 321
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d4c8bd9d32b6c0800000000000000
+      internalID: -4129170160726257528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 491
+        width: 250
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65da0645081388200800000000000000
+      internalID: 182450212149701974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 775
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e3a2925c6222e0800000000000000
+      internalID: -2152038570026344093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 719
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb6b9eace33df550800000000000000
+      internalID: 6196165753966390252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 823
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e466627022f978e00800000000000000
+      internalID: 1046980406884591182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_12
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 55
+        width: 563
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac7a07f5fe01ca0800000000000000
+      internalID: -6048071106367600027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_13
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 319
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726d2c1a54bc9ae60800000000000000
+      internalID: 7974128115163256359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 13
+        width: 298
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a001ad785df065f50800000000000000
+      internalID: 6869695691381936138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_15
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 894
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010bdbacb65ef790800000000000000
+      internalID: -7494457361560829686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_16
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 551
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf50a7ab5afb068e0800000000000000
+      internalID: -1702149940626979332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_17
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 618
+        width: 135
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f9221d501d7dea0800000000000000
+      internalID: -5847975768203550888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_18
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 900
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c356272c8450480800000000000000
+      internalID: -8933654285839418287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 891
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97973538c8a7038c0800000000000000
+      internalID: -4021579723324556935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 511
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb8335b1fb968730800000000000000
+      internalID: 4001056781394742210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 902
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cba302a0114a730800000000000000
+      internalID: 4009348303454649393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_22
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 511
+        width: 53
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcb812c964a53af0800000000000000
+      internalID: -417246616326980419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_23
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 903
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72192944148b3c340800000000000000
+      internalID: 4882949011462590759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_24
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 0
+        width: 369
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f7c1aa4986e17c0800000000000000
+      internalID: -4098723623142129884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_25
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 265
+        width: 440
+        height: 729
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984324301d85e3650800000000000000
+      internalID: 6214502190543942793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a519c4f43e457e0800000000000000
+      internalID: -1777546023177987470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8478e4f2487b550800000000000000
+      internalID: 6176550752677742797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_28
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b36fec4a2868dab0800000000000000
+      internalID: -4983118456796781644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vehicle-atlas-v1_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830529ab1900938c0800000000000000
+      internalID: -4019180566551048136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vehicle-atlas-v1_0: 3850735861333698143
+      vehicle-atlas-v1_1: -466948680337497048
+      vehicle-atlas-v1_10: 6196165753966390252
+      vehicle-atlas-v1_11: 1046980406884591182
+      vehicle-atlas-v1_12: -6048071106367600027
+      vehicle-atlas-v1_13: 7974128115163256359
+      vehicle-atlas-v1_14: 6869695691381936138
+      vehicle-atlas-v1_15: -7494457361560829686
+      vehicle-atlas-v1_16: -1702149940626979332
+      vehicle-atlas-v1_17: -5847975768203550888
+      vehicle-atlas-v1_18: -8933654285839418287
+      vehicle-atlas-v1_19: -4021579723324556935
+      vehicle-atlas-v1_2: 81457234367267636
+      vehicle-atlas-v1_20: 4001056781394742210
+      vehicle-atlas-v1_21: 4009348303454649393
+      vehicle-atlas-v1_22: -417246616326980419
+      vehicle-atlas-v1_23: 4882949011462590759
+      vehicle-atlas-v1_24: -4098723623142129884
+      vehicle-atlas-v1_25: 6214502190543942793
+      vehicle-atlas-v1_26: -1777546023177987470
+      vehicle-atlas-v1_27: 6176550752677742797
+      vehicle-atlas-v1_28: -4983118456796781644
+      vehicle-atlas-v1_29: -4019180566551048136
+      vehicle-atlas-v1_3: 9185942760256812853
+      vehicle-atlas-v1_4: 518144148642461968
+      vehicle-atlas-v1_5: 2839181281153463130
+      vehicle-atlas-v1_6: 4596547958791230818
+      vehicle-atlas-v1_7: -4129170160726257528
+      vehicle-atlas-v1_8: 182450212149701974
+      vehicle-atlas-v1_9: -2152038570026344093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
