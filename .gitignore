@@ -136,3 +136,25 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# This repository stores the Unity project in a subfolder.
+/ye-vajab-ja/[Ll]ibrary/
+/ye-vajab-ja/[Tt]emp/
+/ye-vajab-ja/[Oo]bj/
+/ye-vajab-ja/[Bb]uild/
+/ye-vajab-ja/[Bb]uilds/
+/ye-vajab-ja/[Ll]ogs/
+/ye-vajab-ja/[Uu]ser[Ss]ettings/
+/ye-vajab-ja/ExportedObj/
+/ye-vajab-ja/.vs/
+/ye-vajab-ja/.idea/
+/ye-vajab-ja/Assets/_Recovery/
+
+# Generated WebGL upload packages are distributed separately from source.
+/Yek-Vajab-Ja-WebGL-Upload*.zip
+
+# Local dependencies and credentials must stay off GitHub.
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
